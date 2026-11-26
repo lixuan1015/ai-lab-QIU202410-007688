@@ -1,4 +1,4 @@
-# ai-lab-QIU202410-007688
+# ai-lab-QIU202410-007688 main
 Ching Li Xuan
 QIU-202410-007688
 Use AI to solve problems
